@@ -1,0 +1,39 @@
+.add-expense {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 25px 0;
+}
+
+.add-expense h2 {
+    margin-bottom: 20px;
+}
+
+.add-expense input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+}
+
+.checkbox {
+    margin: 8px 0;
+}
+
+.add-expense button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 12px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.add-expense button:hover {
+    background: #1d4ed8;
+}
